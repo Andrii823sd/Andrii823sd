@@ -26,7 +26,7 @@
 
 ## Где меня найти 🌍
 
-- [Facebook](https://www.facebook.com/@ndrii_4ert)
-- [Instagram](https://www.instagram.com/@ndrii_4ert)
-- [Telegram](https://t.me/@ndrii_4ert)
-- [Gmail](mailto:makarenkoandrii22@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Andrii823sd)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Andrii823sd)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andrii823sd)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Andrii823sd@gmail.com)
