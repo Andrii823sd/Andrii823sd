@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Andrii823sd?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Andrii823sd?style=social)
 
-## Про мене 🌱
+## Про мене 🧏‍♂️
 
 - 🔭 Зараз я працюю над: курсовим проєктом зі створення онлайн фітнес-центру
 - 🌱 Вивчаю: Python, HTML, JavaScript, C#
