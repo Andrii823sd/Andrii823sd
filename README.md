@@ -1,8 +1,8 @@
 # Hey, I am Andrii! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/your-username?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Andrii823sd&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Andrii823sd?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Andrii823sd?style=social)
 
 ## О себе 🌱
 
@@ -21,12 +21,12 @@
 
 ## GitHub Статистика 📊
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Andrii823sd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii823sd&layout=compact&theme=radical)
 
 ## Где меня найти 🌍
 
-- [Facebook](https://www.facebook.com/@ndrii_4ert))
-- [Instagram](https://www.instagram.com/@ndrii_4ert))
+- [Facebook](https://www.facebook.com/@ndrii_4ert)
+- [Instagram](https://www.instagram.com/@ndrii_4ert)
 - [Telegram](https://t.me/@ndrii_4ert)
 - [Gmail](mailto:makarenkoandrii22@gmail.com)
